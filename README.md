@@ -133,6 +133,15 @@ your_email@example.com
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer"/>
 
 </div>
+
+## 📚 最近学习
+
+| ROS2 | 机器人 |
+|------|--------|
+| 2026-07-22 [URDF 与 xacro](https://github.com/ZhangWeiJie-1/ROS2-Learning) | 2026-07-20 [OpenCV 人脸检测](https://github.com/ZhangWeiJie-1/OpenCV) |
+| 2026-07-18 [Topic 通信](https://github.com/ZhangWeiJie-1/ROS2-Learning) | 2026-07-17 [Linux 常用命令](https://github.com/ZhangWeiJie-1/Linux-Notes) |
+| 2026-07-15 [Service 通信](https://github.com/ZhangWeiJie-1/ROS2-Learning) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
+
 ## 🐍 Contribution Snake
 
 <p align="center">
