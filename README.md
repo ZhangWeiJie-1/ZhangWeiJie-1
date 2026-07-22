@@ -133,3 +133,8 @@ your_email@example.com
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhangWeiJie-1/ZhangWeiJie-1/output/github-contribution-grid-snake.svg" />
+</p>
