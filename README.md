@@ -1,37 +1,52 @@
-## Hi there 👋
-
-<!--
-**ZhangWeiJie-1/ZhangWeiJie-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hi 👋
-
-我是张伟杰
+----------------------------------------------------
+👋 Hi，我是张伟杰
 
 🎓 杭州电子科技大学（硕士）
 
-🤖 研究方向：
-- ROS2
-- SLAM
-- Navigation2
-- 机器人
+🤖 Robotics & ROS2 Developer
 
-🌱 最近学习
+----------------------------------------------------
 
-- ROS2 Humble
-- Gazebo
-- MoveIt2
-- Isaac Sim
+📚 About Me
 
-📫 Email
+- 🌱 正在学习 ROS2
+- 🚀 Navigation2
+- 🤖 MoveIt2
+- 📷 OpenCV
+- 🧠 SLAM
+- 🐧 Ubuntu
 
-xxxx@qq.com
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------
+
+🛠 Skills
+
+C++
+Python
+ROS2
+Linux
+Docker
+Git
+OpenCV
+
+----------------------------------------------------
+
+📈 GitHub Stats
+
+（统计卡）
+
+----------------------------------------------------
+
+🔥 Contribution
+
+（贡献图）
+
+----------------------------------------------------
+
+🚀 Projects
+
+ROS2 Learning
+Navigation2 Demo
+机器人巡检
+SLAM
+
+----------------------------------------------------
