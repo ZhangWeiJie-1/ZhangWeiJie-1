@@ -148,6 +148,13 @@ your_email@example.com
 |------|--------|
 | 2026-07-22 [精品论文0-1](https://github.com/ZhangWeiJie-1/-) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
 
+## 📚 最近学习
+
+| ROS2 | C++ |
+|------|--------|
+| 2026-07-24 [指针](https://github.com/ZhangWeiJie-1/pointer/blob/main/README.md) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
+
+
 
 ## 🐍 Contribution Snake
 
