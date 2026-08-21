@@ -141,6 +141,8 @@ your_email@example.com
 | 2026-07-25 [URDF 与 xacro](https://github.com/ZhangWeiJie-1/simulation) | 2026-07-26 [gazebo](https://github.com/ZhangWeiJie-1/simulation) |
 | 2026-07-27~29 [nav1](https://github.com/ZhangWeiJie-1/nav1) | 2026-07-17 [Linux 常用命令](https://github.com/ZhangWeiJie-1/Linux-Notes) |
 | 2026-07-15 [Service 通信](https://github.com/ZhangWeiJie-1/ROS2-Learning) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
+| 2026-08-21 [万用表与传统视觉](https://github.com/ZhangWeiJie-1/roslearn) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
+
 
 ## 📚 最近学习
 
