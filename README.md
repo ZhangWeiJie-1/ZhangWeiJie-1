@@ -121,7 +121,7 @@
 📧 Email
 
 ```text
-your_email@example.com
+2972719533@qq.com
 ```
 
 ---
