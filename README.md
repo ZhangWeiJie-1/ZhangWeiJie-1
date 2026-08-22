@@ -156,6 +156,12 @@ your_email@example.com
 |------|--------|
 | 2026-07-24 [指针](https://github.com/ZhangWeiJie-1/pointer/blob/main/README.md) | 2026-07-24 [结构体](https://github.com/ZhangWeiJie-1/struct) |
 | 2026-07-24 [引用](https://github.com/ZhangWeiJie-1/quote) | 2026-07-24~25 [类与对象](https://github.com/ZhangWeiJie-1/class-and-object) |
+## 📚 最近学习
+
+| codex | |
+|------|--------|
+| 2026-08-22 [codex](https://github.com/ZhangWeiJie-1/codex) | 2026-07-24 [结构体](https://github.com/ZhangWeiJie-1/struct) |
+| 2026-07-24 [引用](https://github.com/ZhangWeiJie-1/quote) | 2026-07-24~25 [类与对象](https://github.com/ZhangWeiJie-1/class-and-object) |
 
 
 ## 🐍 Contribution Snake
