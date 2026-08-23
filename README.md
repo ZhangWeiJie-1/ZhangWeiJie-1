@@ -156,6 +156,7 @@
 |------|--------|
 | 2026-07-24 [指针](https://github.com/ZhangWeiJie-1/pointer/blob/main/README.md) | 2026-07-24 [结构体](https://github.com/ZhangWeiJie-1/struct) |
 | 2026-07-24 [引用](https://github.com/ZhangWeiJie-1/quote) | 2026-07-24~25 [类与对象](https://github.com/ZhangWeiJie-1/class-and-object) |
+| 2026-08-23 [继承](https://github.com/ZhangWeiJie-1/JiCheng) | 2026-07-24~25 [类与对象](https://github.com/ZhangWeiJie-1/class-and-object) |
 ## 📚 最近学习
 
 | codex | |
