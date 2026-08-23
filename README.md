@@ -148,7 +148,7 @@
 
 | ROS2 | 论文 |
 |------|--------|
-| 2026-07-22 [精品论文0-1](https://github.com/ZhangWeiJie-1/-) | 2026-07-13 [Gazebo 入门](https://github.com/ZhangWeiJie-1/Gazebo) |
+| 2026-07-22 [精品论文0-1](https://github.com/ZhangWeiJie-1/-) | 2026-08-23 [Gazebo 入门](https://github.com/ZhangWeiJie-1/LunWen-1) |
 
 ## 📚 最近学习
 
