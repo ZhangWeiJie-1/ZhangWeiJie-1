@@ -148,7 +148,7 @@
 
 | ROS2 | 论文 |
 |------|--------|
-| 2026-07-22 [精品论文0-1](https://github.com/ZhangWeiJie-1/-) | 2026-08-23 [基于概率语义模型的最优期望时间目标搜索](https://github.com/ZhangWeiJie-1/LunWen-1) |
+| 2026-07-22 [精品论文0-1](https://github.com/ZhangWeiJie-1/-) | 2026-08-23 [codex复现论文](https://github.com/ZhangWeiJie-1/LunWen-1) |
 
 ## 📚 最近学习
 
